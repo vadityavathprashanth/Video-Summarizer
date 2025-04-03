@@ -1,4 +1,4 @@
-# Phidata Video AI Summarizer Agent 🎥🎤
+# Video AI Summarizer Agent 🎥
 
 This application is a **Multimodal AI Agent** designed to analyze video content and provide detailed, actionable insights. Powered by **Gemini 2.0 Flash Exp**, it leverages advanced AI models and tools for video analysis and supplementary web research.
 
